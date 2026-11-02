@@ -1,5 +1,5 @@
 export const site = {
-  url: 'https://your-username.github.io/portfolio',
+  url: 'https://warryncruz.github.io',
 
   defaultLang: 'en', 
   languages: ['en', 'tl'],
